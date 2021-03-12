@@ -1,0 +1,871 @@
+[
+  {
+    "entries": [
+      {
+        "product": {
+          "code": "spec-100000339340",
+          "catalogId": "WANAB-TG1-2021-Bronco",
+          "features": [
+            {
+              "family": {
+                "code": "000"
+              },
+              "values": [
+                {
+                  "code": "000VW",
+                  "description": "Black Onyx",
+                  "guxCategoryLabels": "000",
+                  "guxCategoryDescription": "Interior Trim Colour",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ITS"
+              },
+              "values": [
+                {
+                  "code": "11L00",
+                  "description": "Marine Grade Vinyl Seats",
+                  "guxCategoryLabels": "ITS",
+                  "guxCategoryDescription": "Seat Material Mache",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "#T#"
+              },
+              "values": [
+                {
+                  "code": "11LVW",
+                  "description": "Marine Grade Vinyl",
+                  "guxCategoryLabels": "trim",
+                  "guxCategoryDescription": "Trim",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "A3E"
+              },
+              "values": [
+                {
+                  "code": "A3EAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "A6Z"
+              },
+              "values": [
+                {
+                  "code": "A6ZAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "BAY"
+              },
+              "values": [
+                {
+                  "code": "BAYAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "BLY"
+              },
+              "values": [
+                {
+                  "code": "BLYAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "C1C"
+              },
+              "values": [
+                {
+                  "code": "C1CAQ",
+                  "description": "Towing Capability",
+                  "guxCategoryLabels": "SP",
+                  "guxCategoryDescription": "Special Package",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "CA#"
+              },
+              "values": [
+                {
+                  "code": "CA#WL",
+                  "description": "4 Door",
+                  "guxCategoryLabels": "bodystyle",
+                  "guxCategoryDescription": "Bodystyle",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "MarketedSeries"
+              },
+              "values": [
+                {
+                  "code": "CA#WL_SE#HJ_YZVZN",
+                  "description": "BADLANDS",
+                  "guxCategoryLabels": "series",
+                  "guxCategoryDescription": "Series",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "SW1"
+              },
+              "values": [
+                {
+                  "code": "D2YDX",
+                  "description": "17\" Black High Gloss-Painted Aluminum, with Warm Alloy Beauty Ring, Beadlock Capable Wheels",
+                  "guxCategoryLabels": "SW1",
+                  "guxCategoryDescription": "Wheel Type",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ST1"
+              },
+              "values": [
+                {
+                  "code": "D3KHQ",
+                  "description": "LT315/70R17 BSW Mud-Terrain (M/T) Tires",
+                  "guxCategoryLabels": "ST1",
+                  "guxCategoryDescription": "Tire Type",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "DEB"
+              },
+              "values": [
+                {
+                  "code": "DEBAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "DR-"
+              },
+              "values": [
+                {
+                  "code": "DR--F",
+                  "description": "4X4 with Full Time Drive",
+                  "guxCategoryLabels": "DR-",
+                  "guxCategoryDescription": "Drive",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "EN-"
+              },
+              "values": [
+                {
+                  "code": "EN-WQ",
+                  "description": "2.7L EcoBoost Engine",
+                  "guxCategoryLabels": "EN-",
+                  "guxCategoryDescription": "Engine",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "GTA"
+              },
+              "values": [
+                {
+                  "code": "GTAAE",
+                  "description": "Leather-Wrapped Steering Wheel with Bronco Badge, cruise and audio controls",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "HNK"
+              },
+              "values": [
+                {
+                  "code": "HNKAB",
+                  "description": "Reverse Sensing System",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "Exterior Options",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ICP"
+              },
+              "values": [
+                {
+                  "code": "ICPAE",
+                  "description": "SiriusXM with 360L",
+                  "guxCategoryLabels": "AUG",
+                  "guxCategoryDescription": "Audio Upgrade",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "IEV"
+              },
+              "values": [
+                {
+                  "code": "IEVAQ",
+                  "description": "SYNC 4 with Enhanced Voice Recognition",
+                  "guxCategoryLabels": "AUG",
+                  "guxCategoryDescription": "Audio Upgrade",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "PAA"
+              },
+              "values": [
+                {
+                  "code": "PN4JC",
+                  "description": "Cactus Gray",
+                  "guxCategoryLabels": "PAA",
+                  "guxCategoryDescription": "Paint Type",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "TR-"
+              },
+              "values": [
+                {
+                  "code": "TR-ET",
+                  "description": "10-Speed Automatic Transmission",
+                  "guxCategoryLabels": "TR-",
+                  "guxCategoryDescription": "Transmissions",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YAC"
+              },
+              "values": [
+                {
+                  "code": "YACAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YAD"
+              },
+              "values": [
+                {
+                  "code": "YADAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YAE"
+              },
+              "values": [
+                {
+                  "code": "YAEAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YAJ"
+              },
+              "values": [
+                {
+                  "code": "YAJAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YAW"
+              },
+              "values": [
+                {
+                  "code": "YAWAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YDI"
+              },
+              "values": [
+                {
+                  "code": "YDIAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YEL"
+              },
+              "values": [
+                {
+                  "code": "YELAA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YF2"
+              },
+              "values": [
+                {
+                  "code": "YF2AA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YZA"
+              },
+              "values": [
+                {
+                  "code": "YZCAQ",
+                  "description": "334A",
+                  "guxCategoryLabels": "YZA",
+                  "guxCategoryDescription": "Pep Code",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ZJ1"
+              },
+              "values": [
+                {
+                  "code": "ZJ1AA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ZJ2"
+              },
+              "values": [
+                {
+                  "code": "ZJ2AA",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "S"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "GTB"
+              },
+              "values": [
+                {
+                  "code": "GTBAB",
+                  "description": "Heated Steering Wheel",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "HKC"
+              },
+              "values": [
+                {
+                  "code": "HKCAB",
+                  "description": "Connected Built-In Navigation with 3 Years of Service, Pinch-to-Zoom Capability",
+                  "guxCategoryLabels": "AUG",
+                  "guxCategoryDescription": "Audio Upgrade",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "IEX"
+              },
+              "values": [
+                {
+                  "code": "IEXAB",
+                  "description": "Wireless Charging Pad",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "GTD"
+              },
+              "values": [
+                {
+                  "code": "GTDAC",
+                  "description": "Adaptive Cruise Control",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "DEE"
+              },
+              "values": [
+                {
+                  "code": "DEEAB",
+                  "description": "Remote Start System",
+                  "guxCategoryLabels": "OPT",
+                  "guxCategoryDescription": "Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "HUK"
+              },
+              "values": [
+                {
+                  "code": "HUKAJ",
+                  "description": "Power Outlet - Back Side of Center Floor Console",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "AC-"
+              },
+              "values": [
+                {
+                  "code": "AC--K",
+                  "description": "Dual-Zone Electronic Automatic Temperature Control (DEATC)",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "A4D"
+              },
+              "values": [
+                {
+                  "code": "A4DAB",
+                  "description": "Front Row Heated Seats",
+                  "guxCategoryLabels": "OVR",
+                  "guxCategoryDescription": "Overflow",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "J4W"
+              },
+              "values": [
+                {
+                  "code": "J4WAF",
+                  "description": "Ford Co-Pilot360™",
+                  "guxCategoryLabels": "OVR",
+                  "guxCategoryDescription": "Overflow",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YLA"
+              },
+              "values": [
+                {
+                  "code": "YLABC",
+                  "description": "Mid Package",
+                  "guxCategoryLabels": "INP",
+                  "guxCategoryDescription": "Interior Packages",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YP6"
+              },
+              "values": [
+                {
+                  "code": "YP6AB",
+                  "description": "Lux Package",
+                  "guxCategoryLabels": "INP",
+                  "guxCategoryDescription": "Interior Packages",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "J3K"
+              },
+              "values": [
+                {
+                  "code": "J3KAH",
+                  "description": "360-Degree Camera",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YP1"
+              },
+              "values": [
+                {
+                  "code": "YP1AB",
+                  "description": "High Package",
+                  "guxCategoryLabels": "INP",
+                  "guxCategoryDescription": "Interior Packages",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "HJG"
+              },
+              "values": [
+                {
+                  "code": "HJGAX",
+                  "description": "12\" LCD Capacitive Touchscreen with Swipe Capability",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "AAC"
+              },
+              "values": [
+                {
+                  "code": "AACT5",
+                  "description": "Sasquatch™ Package",
+                  "guxCategoryLabels": "SP",
+                  "guxCategoryDescription": "Special Package",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "EGJ"
+              },
+              "values": [
+                {
+                  "code": "EGJAD",
+                  "description": "Rear Locking Differential",
+                  "guxCategoryLabels": "OVR",
+                  "guxCategoryDescription": "Overflow",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "SDR"
+              },
+              "values": [
+                {
+                  "code": "EGAA6",
+                  "description": "4.7 Locking Rear Axle Final Drive Ratio",
+                  "guxCategoryLabels": "RAR",
+                  "guxCategoryDescription": "Rear Axle Ratios",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ICF"
+              },
+              "values": [
+                {
+                  "code": "ICFAP",
+                  "description": "B&O Sound System by Bang & Olufsen with 10 Speakers, including Subwoofer",
+                  "guxCategoryLabels": "ICE",
+                  "guxCategoryDescription": "Radio Type",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "YZU"
+              },
+              "values": [
+                {
+                  "code": "YZVZN",
+                  "description": "E5D",
+                  "guxCategoryLabels": "YBC",
+                  "guxCategoryDescription": "Body Code",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "JBB"
+              },
+              "values": [
+                {
+                  "code": "JBBBS",
+                  "description": "Headlamps - LED with LED Signature Lighting",
+                  "guxCategoryLabels": "OPT",
+                  "guxCategoryDescription": "Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "A1C"
+              },
+              "values": [
+                {
+                  "code": "A1CAL",
+                  "description": "Upgraded Bash Plates",
+                  "guxCategoryLabels": "OPT",
+                  "guxCategoryDescription": "Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "CLF"
+              },
+              "values": [
+                {
+                  "code": "CLFCG",
+                  "description": "Front Bumper - Heavy-Duty Modular",
+                  "guxCategoryLabels": "OPT",
+                  "guxCategoryDescription": "Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "ABE"
+              },
+              "values": [
+                {
+                  "code": "ABEBL",
+                  "description": "Hard Top, Molded-in-Color (MIC)",
+                  "guxCategoryLabels": "OPT",
+                  "guxCategoryDescription": "Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "BEC"
+              },
+              "values": [
+                {
+                  "code": "BECAB",
+                  "description": "Storage Bag - Front Row Top Panels (for On-Vehicle Storage)",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "B5V"
+              },
+              "values": [
+                {
+                  "code": "B5VBC",
+                  "description": "Auxiliary Switches with Pre-Run Accessory Wires located in Overhead Console with Front Map Lights",
+                  "guxCategoryLabels": "IOT",
+                  "guxCategoryDescription": "Interior Options",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "SE#"
+              },
+              "values": [
+                {
+                  "code": "SE#HJ",
+                  "description": "BADLANDS",
+                  "guxCategoryLabels": "YZS",
+                  "guxCategoryDescription": "ModelGroup",
+                  "state": "I"
+                }
+              ]
+            },
+            {
+              "family": {
+                "code": "DYK"
+              },
+              "values": [
+                {
+                  "code": "DYKAM",
+                  "description": "Front Stabilizer Bar Disconnect",
+                  "guxCategoryLabels": "",
+                  "guxCategoryDescription": "",
+                  "state": "I"
+                }
+              ]
+            }
+          ],
+          "imageUrl": "https://build.ford.com/dig/Ford/Bronco/2021/HD-TILE/Config%5B%7CFord%7CBronco%7C2021%7C1%7C1.%7C954A.E5E..NE...RET.%5D/EXT/1/vehicle.png",
+          "marketingIdentity": {
+            "brand": "ford",
+            "nameplate": "Bronco",
+            "segment": "suv",
+            "modelYear": "2021",
+            "salesMarket": "USA"
+          }
+        },
+        "dealer": {
+          "code": "USA|04044|F24527|F",
+          "name": "Tallahassee Ford",
+          "address": {
+            "line1": "243 North Magnolia Drive",
+            "town": "Tallahassee",
+            "region": {
+              "isocode": "US-FL",
+              "isocodeShort": "FL",
+              "countryIso": "USA",
+              "name": "Florida"
+            },
+            "postalCode": "323012664",
+            "phone": "(850) 877-1171",
+            "country": {
+              "isocode": "USA",
+              "name": "United States"
+            }
+          },
+          "isDealerBEVEnrolled": "N/A",
+          "isDealerEcomEnrolled": "TRUE",
+          "email": "www.tallahasseefordlincoln@eleadtrack.net",
+          "isCartCheckoutNaReadyFlagEV": true,
+          "deliveryPreferredFlag": "N/A",
+          "remoteDeliveryNaFlag": "TRUE"
+        },
+        "readyToOrder": false,
+        "financeData": {
+          "financeType": "Cash",
+          "properties": {},
+          "incentives": []
+        },
+        "estimatedFinanceData": {
+          "financeType": "Cash",
+          "properties": {},
+          "incentives": []
+        },
+        "liteConfig": true
+      }
+    ]
+  }
+]
